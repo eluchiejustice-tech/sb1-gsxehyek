@@ -1,6 +1,6 @@
 import Link from "next/link";
-import SiteHeader from "../../../components/SiteHeader";
-import SiteFooter from "../../../components/SiteFooter";
+import SiteHeader from "../../components/SiteHeader";
+import SiteFooter from "../../components/SiteFooter";
 
 export const metadata={title:"NIN Intelligence",description:"NIN Intelligence is a paused prototype exploring structured household information and community coordination."};
 
