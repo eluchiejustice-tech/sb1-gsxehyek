@@ -1,6 +1,6 @@
 import Link from "next/link";
-import SiteHeader from "../../../components/SiteHeader";
-import SiteFooter from "../../../components/SiteFooter";
+import SiteHeader from "../../components/SiteHeader";
+import SiteFooter from "../../components/SiteFooter";
 
 export const metadata={title:"GeoMind",description:"GeoMind is an AI-assisted geoscience and mining intelligence project by Chibuzo Eluchie."};
 
