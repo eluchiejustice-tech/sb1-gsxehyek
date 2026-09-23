@@ -1,6 +1,6 @@
 import Link from "next/link";
-import SiteHeader from "../../../components/SiteHeader";
-import SiteFooter from "../../../components/SiteFooter";
+import SiteHeader from "../../components/SiteHeader";
+import SiteFooter from "../../components/SiteFooter";
 
 export const metadata={title:"Stratum",description:"Stratum is a solid-minerals marketplace and mineral intelligence project by Chibuzo Eluchie."};
 
