@@ -1,0 +1,1 @@
+import "./globals.css";export const metadata={title:"Chibuzo Eluchie | Geologist, AI & Data Builder",description:"Chibuzo Eluchie builds practical technology at the intersection of geology, data, AI and African innovation."};export default function RootLayout({children}){return <html lang="en"><body>{children}</body></html>}
