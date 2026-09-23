@@ -1,2 +1,5 @@
+import SiteHeader from "../components/SiteHeader";
+import SiteFooter from "../components/SiteFooter";
+
 export const metadata={title:"Contact",description:"Contact Chibuzo Eluchie about technology, AI, data, geoscience and projects."};
-export default function Contact(){return <main className="inner-page"><header className="container nav"><a className="brand" href="/">Chibuzo Eluchie</a><a href="/">← Home</a></header><section className="cta"><div className="container"><p className="eyebrow">Contact</p><h1>Let’s build something useful.</h1><p>For now, please use the professional contact channel you already have for me. A public email address will be added here once the domain and mailbox are configured.</p><div className="actions" style={{justifyContent:"center"}}><a className="button" href="/">Return home</a></div></div></section></main>}
+export default function Contact(){return <main className="inner-page"><SiteHeader/><section className="cta"><div className="container"><p className="eyebrow">Contact</p><h1>Let’s build something useful.</h1><p>For now, please use the professional contact channel you already have for me. A public email address will be added here once the domain and mailbox are configured.</p><div className="actions" style={{justifyContent:"center"}}><a className="button" href="/">Return home</a></div></div></section><SiteFooter/></main>}
