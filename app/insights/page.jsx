@@ -5,7 +5,8 @@ import SiteFooter from "../components/SiteFooter";
 const posts=[
   ["Lessons from Building GeoMind","What building an AI geoscience product reveals about evidence, data, security and failure.","/insights/lessons-from-building-geomind"],
   ["The Geology of Intelligence","Exploring evidence, uncertainty and interpretation through a geological lens.","/insights/the-geology-of-intelligence"],
-  ["Building from Africa","Notes on developing practical technology around local problems and constraints.","/insights/building-from-africa"]
+  ["Building from Africa","Notes on developing practical technology around local problems and constraints.","/insights/building-from-africa"],
+  ["From Geologist to Technology Builder","How a geology background became part of the way I approach technology, data and problem-solving.","/insights/from-geologist-to-technology-builder"]
 ];
 
 export const metadata={title:"Insights",description:"Writing by Chibuzo Eluchie about geology, AI, data and building technology."};
