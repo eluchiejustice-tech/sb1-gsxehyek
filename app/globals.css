@@ -13,3 +13,12 @@
 .cta .eyebrow{color:#aaa59a}
 .cta p{color:#c2bdb2}
 .footer{background:var(--premium);color:#aaa59a}
+
+/* Keep the Contact card crisp against the premium black section */
+.cta .card{background:var(--paper);color:var(--ink);text-align:left;border:1px solid var(--line)}
+.cta .card .eyebrow{color:var(--muted)}
+.cta .card h2{color:var(--ink)}
+.cta .card p{color:#504c44}
+.cta .card a{color:var(--ink)}
+.cta .card .button{color:var(--ink);border-color:var(--ink)}
+.cta .card .button:hover{background:var(--ink);color:var(--paper)}
