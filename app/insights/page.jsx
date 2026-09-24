@@ -7,7 +7,8 @@ const posts=[
   ["The Geology of Intelligence","Exploring evidence, uncertainty and interpretation through a geological lens.","/insights/the-geology-of-intelligence"],
   ["Building from Africa","Notes on developing practical technology around local problems and constraints.","/insights/building-from-africa"],
   ["From Geologist to Technology Builder","How a geology background became part of the way I approach technology, data and problem-solving.","/insights/from-geologist-to-technology-builder"],
-  ["What Geology Taught Me About Data","Lessons from geology about collecting, organizing, validating and interpreting data.","/insights/what-geology-taught-me-about-data"]
+  ["What Geology Taught Me About Data","Lessons from geology about collecting, organizing, validating and interpreting data.","/insights/what-geology-taught-me-about-data"],
+  ["AI Should Assist, Not Replace","Why useful AI systems should strengthen human judgment rather than remove it.","/insights/ai-should-assist-not-replace"]
 ];
 
 export const metadata={title:"Insights",description:"Writing by Chibuzo Eluchie about geology, AI, data and building technology."};
