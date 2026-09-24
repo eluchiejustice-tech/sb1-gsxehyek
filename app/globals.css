@@ -22,3 +22,11 @@
 .cta .card a{color:var(--ink)}
 .cta .card .button{color:var(--ink);border-color:var(--ink)}
 .cta .card .button:hover{background:var(--ink);color:var(--paper)}
+
+/* Premium interaction polish for inner pages */
+.project-row,.insight-card{transition:background .2s ease,color .2s ease,transform .2s ease}
+.project-row:hover{background:var(--premium);color:var(--premium-soft);padding-left:18px;padding-right:18px}
+.project-row:hover p,.project-row:hover .project-number,.project-row:hover .status{color:#c2bdb2}
+.insight-card:hover{background:var(--premium);color:var(--premium-soft);transform:translateY(-3px)}
+.insight-card:hover p,.insight-card:hover .card-index{color:#c2bdb2}
+.insight-card:hover .project-link{text-decoration-color:var(--premium-soft)}
