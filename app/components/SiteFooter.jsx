@@ -1,3 +1,3 @@
 export default function SiteFooter(){
-  return <footer className="container footer">Chibuzo Eluchie · Geologist · AI & Data Builder · © 2026</footer>;
+  return <footer className="footer"><div className="container">Chibuzo Eluchie · Geologist · AI & Data Builder · © 2026</div></footer>;
 }
