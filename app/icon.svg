@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Chibuzo Eluchie">
+  <rect width="64" height="64" rx="12" fill="#15130F"/>
+  <path d="M43.5 18.5c-2.5-2.2-5.8-3.3-9.8-3.3-8.8 0-15.2 5.8-15.2 16s6.4 16 15.2 16c4 0 7.3-1.1 9.8-3.3l-3.4-4.5c-1.8 1.4-3.8 2.1-6.1 2.1-4.9 0-8.3-3.5-8.3-10.3s3.4-10.3 8.3-10.3c2.3 0 4.3.7 6.1 2.1z" fill="#EDE8DC"/>
+  <path d="M39.5 22.5h6.1v19h-6.1z" fill="#EDE8DC"/>
+</svg>
